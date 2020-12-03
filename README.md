@@ -56,7 +56,7 @@ Project Folders & Files Overview
 
 Dependencies
 
-	1. pandas
+1. pandas
 
 
 
