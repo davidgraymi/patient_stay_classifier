@@ -1,13 +1,16 @@
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Missouri State University: CSC 535/635 - Data Mining
+
 Professor: Dr. Jamil Saquer
 
 Final Project: Patient Length of Stay Classifier
+
 Contributors: David Gray, Braden Bagby, & Binh Le
+
 Data Source: https://www.kaggle.com/nehaprabhavalkar/av-healthcare-analytics-ii
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
 Instructions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. run preprocess.py
 
@@ -25,11 +28,10 @@ Instructions
 
 	- Running this will produce a confusion matrix and classification report with
 	  the algorithms accuracy, precision, recall, and f1-score.
-	- The report will not save automatically.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Project Folders & Files Overview
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 /code: contains the source code
 
 	tools.py: full of tools for training, testing, and visualizing
@@ -61,11 +63,11 @@ Project Folders & Files Overview
 /processed_data: empty folder for storing data after processing
 
 data.csv: original, unmodified healthcare data set for training and testing
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
 Dependencies
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 	1. pandas
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
